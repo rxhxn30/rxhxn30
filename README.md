@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/rohanj_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanj_30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohan-janardhan-680a90232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-janardhan-680a90232" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rxhxn30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rxhxn30" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rxhxn_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rxhxn_30" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rxhxn30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rxhxn30" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rohanjanardhan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohanjanardhan30" height="30" width="40" /></a>
