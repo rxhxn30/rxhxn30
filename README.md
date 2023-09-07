@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxhxn30&label=Profile%20views&color=0e75b6&style=flat" alt="rxhxn30" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning & RL**
+- 🌱 I’m currently learning **Java, React Native & Deep Learning**
 
 - 💬 Ask me about **React, ML & DSA**
 
